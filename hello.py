@@ -35,5 +35,5 @@ def recs(request, id):
 def home(request):
   return 'Please add a user id to the URL, e.g. http://localhost:8083/1234n'
 
-# Start up a listener on port 8080
+# Start up a listener on port 8083
 run("localhost", 8083)
