@@ -1,4 +1,4 @@
-# MahoutRecommender
+# Mahout Recommender - Big Data Assignment
 Building a Recommender with Apache Mahout on Amazon Elastic MapReduce (EMR)
 
 1. Sign up for an AWS account and start up an EMR cluster.
